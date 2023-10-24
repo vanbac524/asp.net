@@ -156,3 +156,7 @@ E:\ASP\NguyenVanBac\asp_NguyenVanBac\asp_NguyenVanBac\obj\Debug\asp_NguyenVanBac
 E:\ASP\NguyenVanBac\asp_NguyenVanBac\asp_NguyenVanBac\obj\Debug\asp_NguyenVanBac.csproj.CopyComplete
 E:\ASP\NguyenVanBac\asp_NguyenVanBac\asp_NguyenVanBac\obj\Debug\asp_NguyenVanBac.dll
 E:\ASP\NguyenVanBac\asp_NguyenVanBac\asp_NguyenVanBac\obj\Debug\asp_NguyenVanBac.pdb
+E:\ASP\NguyenVanBac\asp_NguyenVanBac\asp_NguyenVanBac\bin\EntityFramework.dll
+E:\ASP\NguyenVanBac\asp_NguyenVanBac\asp_NguyenVanBac\bin\EntityFramework.SqlServer.dll
+E:\ASP\NguyenVanBac\asp_NguyenVanBac\asp_NguyenVanBac\bin\EntityFramework.xml
+E:\ASP\NguyenVanBac\asp_NguyenVanBac\asp_NguyenVanBac\bin\EntityFramework.SqlServer.xml
